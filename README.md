@@ -1,2 +1,6 @@
 # lighthouse-21-day-coding-challenge
-LIghthouse 21 Day Coding Challenge
+![](https://coding-challenge.lighthouselabs.ca/img/about/Experience_needed.png)
+
+https://coding-challenge.lighthouselabs.ca/teams/join/yegdev
+
+Team YEGDEV!
